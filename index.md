@@ -17,7 +17,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 **Problématique :** " Est-ce que les émissions de gaz à effet de serre provoquent-elles le réchauffement climatique ?"
 
-**Hypothèse principale :** " Les gaz à effet de serre sint responsables des dérèglements climatiques"
+**Hypothèse principale :** " Les gaz à effet de serre sont responsables des dérèglements climatiques"
 
 **Hypothèses secondaires :** 
 
