@@ -1,8 +1,9 @@
 # Le réchauffement climatique
 
+Notre projet consiste à modéliser l'évolution du réchauffement climatique qui un phénomène naturel évoluant dans le temps. 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
-## English version
+## Global warming
 
 Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
 
@@ -24,6 +25,11 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 **Objectifs :**
 
 **Critère(s) d'évaluation :**
+
+Nous avons établi plusieurs critères permettant d'étudier le phénomène:
+- Les transports (voiture,moto,camions)
+- Le domaine énergétique (centrales thermiques flamme)
+- Les activités de l'homme (déforestations,combustion de gaz et pétrole)
 
 ## Présentation structurée des résultats
 
