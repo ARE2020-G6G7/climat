@@ -1,4 +1,4 @@
-# Le rachauffement climatique
+# Le réchauffement climatique
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
@@ -10,14 +10,14 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
+| L. Randriamanantena| A.Mawanzi Matoma | V.Vienne  | D.Aholou  |
 
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique :** " Est-ce que les émissions de gaz à effet de serre provoquent-elles le réchauffement climatique ?"
 
-**Hypothèse principale :**
+**Hypothèse principale :** " Les gaz à effet de serre sint responsables des dérèglements climatiques"
 
 **Hypothèses secondaires :** 
 
