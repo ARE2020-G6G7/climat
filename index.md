@@ -94,6 +94,8 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
+## Lien test page externe : <a href="https://tanierandria98.wixsite.com/climat0/post/semaine-4-finalisation-du-dossier-analyse-et-critique-axes-d-am%C3%A9liorations"> Analyse & critiques - Axes d'amélioration </a>
+
 ## Bibliographie :
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
