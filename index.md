@@ -11,7 +11,13 @@ Un économiste de l'Energie japonais, Yochi Kaya propose une équation liant 4 f
 
 ## Global warming
 
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+Our project is to model the evolution of global warming on the earth's surface, whose natural balance is modified by humans. It is important to determine the causes and consequences of this imbalance, in particular the emission of greenhouse gases since the 19th century. 
+Everyone is concerned and must mobilize and act to conserve our planet. at all levels. 
+The objective of this project is to show the urgency so that the price of everyone's conscience is essential and that the measures and actions taken will be continued. An urgent, vital problem, not resolved, not finalized and requires everyone's responsibility to move forward.
+After study and research on this subject, we take into account the gravity and the importance and the complexity of the situation and it is very difficult to find a solution with an applicable scientific equation which could satisfy everyone, every country and all actors.
+
+A Japanese energy economist, Yochi Kaya proposes an equation linking 4 factors in order to analyze and simulate the evolution of global CO2 emissions in the framework of policies to fight against global warming.
+
 
 ## Présentation de l'équipe
 
