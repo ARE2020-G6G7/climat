@@ -48,6 +48,8 @@ A Japanese energy economist, Yochi Kaya proposes an equation linking 4 factors i
 - Représentation graphique des 4 courbes (facteurs indissociables) définissant l'équation
 - 1 graphique sur la variation du C02 jusqu'à 2050 (marquant le niveau maximal (450ppm de CO²) afin d'atteindre l'objectif de limiter le rechauffement à 2°C d'ici 2050)
 
+![gif](ARE2020_Climat.gif)
+
 Présentation 
 - situation probable, mécanisme théorique économique à établir, à développer : calcul du taux de variation de chaque paramètre (programmation)                       
 Co²= P x PIB/p x TEP/PIB x Co²/TEP
