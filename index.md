@@ -102,7 +102,6 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 ## Lien vers page de blog : <a href="https://tanierandria98.wixsite.com/climat0" target="_blank"> C'est ici ! </a>
 
-## Lien test page externe : <a href="https://tanierandria98.wixsite.com/climat0/post/semaine-4-finalisation-du-dossier-analyse-et-critique-axes-d-am%C3%A9liorations" target="_blank"> Analyse & critiques - Axes d'amélioration </a>
 ## Conclusion:
 
 Notre projet a l’état final se nomme “climat.ipynb”  
