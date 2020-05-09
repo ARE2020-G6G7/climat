@@ -76,7 +76,7 @@ faire entrer les coefficients : c,p,pm,ie,ip
 IP' = (c/p*pm*ie)xIP
 Résultat : R = (c/p*pm*ie)
 
-Hypothèses :
+**Hypothèses
 
 1-/ c = 1/3 = 0.33  #on veut faire baisser la production de CO2 et la diviser par 3 d'ici 2050
 
@@ -109,26 +109,26 @@ Notre projet a l’état final se nomme “climat.ipynb”
 
 ## Résultats :
 
-Calcul ie = TEP/PIB :
+ **Calcul ie = TEP/PIB :
 
 ![image](Resultat_ie.png)
 
---> Interprêtation : en prenant les mêmes résultats qu’en 2010, une baisse annuelle de l’intensité énergétique du PIB 0.059% est à maintenir, ce qui consiste à utiliser moins d’énergies primaires pour produire un bien.
+--> Interprêtation : en prenant les mêmes résultats qu’en 2010 (cf chiffres ci-dessous), une baisse annuelle de l’intensité énergétique du PIB 0.059% est à maintenir, ce qui consiste à utiliser moins d’énergies primaires pour produire un bien.
 
-Calcul pm = PIB/Pop :
+ **Calcul pm = PIB/Pop :
 
 ![image](Resultat_pm.png)
 
 --> Interprêtation : une baisse annuelle du pouvoir d'achat de 0.043% par habitant est à considérer sur l'échelle mondiale, en supposant que la richesse soit bien répartie, le taux de croissance de la population annuelle est toujours de 1.14%, un effort sur la diminution de CO2 en énergie est significatif à 0.8, 
 
-Calcul ip = CO2/TEP :
+ **Calcul ip = CO2/TEP :
 
 ![image](Resultat_ip.png)
 
 --> Interprêtation : 
  Suite à une hausse du pouvoir d’achat à 1.1, et la quantité d’énergie utilisée pour produire un bien est en baisse, on constate une baisse annuelle de l’émission de CO2 par énergie, ce qui se traduit par l’augmentation de l’utilisation des énergies « sans carbone » : décarboner l’énergie afin d’atteindre l’objectif de faire baisser la production de CO2 et la diviser par 3 d’ici 2050 (COP 15 de 2009)
  
- Chiffres de 1970 - 2010 :
+  **Chiffres de 1970 - 2010 :
  
  ![image](Chiffres_1970_2010.png)
 
@@ -138,8 +138,13 @@ Calcul ip = CO2/TEP :
 
 ![image](mindmap_climat.png)
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+**Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. 
 
 https://jancovici.com/changement-climatique/economie/quest-ce-que-lequation-de-kaya/
 http://www.carbone4.com/le-defi-mondial-resoudre-lequation-de-kaya/
 https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-des-energies-renouvelables-edition-2019
+https://www.mtaterre.fr/les-gaz-effet-de-serre-0
+https://www.geo.fr/environnement/ges-quels-sont-les-effets-des-gaz-a-effet-de-serre-sur-lenvironnement-193401 publiée le 13/11/2018.
+https://www.respire-asso.org/dioxyde-de-carbone-co2/
+https://votreimpact.org/gaz-a-effet-de-serre/sources-de-co2
+https://www.la-croix.com/Sciences-et-ethique/Sciences-et-ethique/sont-vraiment-refugies-climatiques-2019-12-09-1201065344
