@@ -104,7 +104,7 @@ Notre projet a l’état final se nomme “climat.ipynb”
 Calcul ie = TEP/PIB :
 ![image](Resultat_ie.png)
 
---> Interprêtation : en prenant les mêmes résultats qu’en 2010, une baisse annuelle de l’intensité énergétique du PIB 0.059% est à maintenir, ce qui consiste à utiliser moins d’énergies primaires pour produire un bien,
+--> Interprêtation : en prenant les mêmes résultats qu’en 2010, une baisse annuelle de l’intensité énergétique du PIB 0.059% est à maintenir, ce qui consiste à utiliser moins d’énergies primaires pour produire un bien.
 
 Calcul pm = PIB/Pop :
 ![image](Resultat_pm.png)
@@ -112,9 +112,13 @@ Calcul pm = PIB/Pop :
 --> Interprêtation : une baisse annuelle du pouvoir d'achat de 0.043% par habitant est à considérer sur l'échelle mondiale, en supposant que la richesse soit bien répartie, le taux de croissance de la population annuelle est toujours de 1.14%, un effort sur la diminution de CO2 en énergie est significatif à 0.8, 
 
 Calcul ip = CO2/TEP :
-# [image](Resultat_ip.png)
+[image](Resultat_ip.png)
+
 --> Interprêtation : 
- notamment à utiliser plus d'énergies renouvelables, on parle de décarbonation de l'énergie
+ Suite à une hausse du pouvoir d’achat à 1.1, et la quantité d’énergie utilisée pour produire un bien est en baisse, on constate une baisse annuelle de l’émission de CO2 par énergie, ce qui se traduit par l’augmentation de l’utilisation des énergies « sans carbone » : décarboner l’énergie afin d’atteindre l’objectif de faire baisser la production de CO2 et la diviser par 3 d’ici 2050 (COP 15 de 2009)
+ 
+ Chiffres de 1970 - 2010 :
+ [image](Chiffres_1970_2010.png)
 
 ## Bibliographie :
 
