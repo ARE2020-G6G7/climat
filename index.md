@@ -102,9 +102,13 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 ## Lien vers page de blog : <a href="https://tanierandria98.wixsite.com/climat0" target="_blank"> C'est ici ! </a>
 
-## Conclusion:
+## Sripts :
 
 Notre projet a l’état final se nomme “climat.ipynb”  
+
+## Résultats :
+
+![image](Resultat_ie.png)
 
 ## Bibliographie :
 
