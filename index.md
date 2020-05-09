@@ -117,7 +117,7 @@ Calcul pm = PIB/Pop :
 
 Calcul ip = CO2/TEP :
 
-![image](Resultat_ip.png)
+![image](Resultat ip.png)
 
 --> Interprêtation : 
  Suite à une hausse du pouvoir d’achat à 1.1, et la quantité d’énergie utilisée pour produire un bien est en baisse, on constate une baisse annuelle de l’émission de CO2 par énergie, ce qui se traduit par l’augmentation de l’utilisation des énergies « sans carbone » : décarboner l’énergie afin d’atteindre l’objectif de faire baisser la production de CO2 et la diviser par 3 d’ici 2050 (COP 15 de 2009)
