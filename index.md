@@ -4,8 +4,8 @@ Notre projet consiste à modéliser l'évolution du réchauffement climatique su
 Il est important de déterminer les causes et conséquences de ce déséquilibre, notamment l'émission accrue des gaz à effet de serre depuis le XIXème siècle.
 Tout le monde est concerné et doit se mobiliser et agir pour conserver notre planète. à tous les niveaux. 
 L'objectif de ce projet est de montrer l'urgence afin que la prise de conscience de chacun soit primordiale et que les mesures  et actions engagées soient poursuivies.
-Une problèmatique urgente , vitale, non solutionnée, non finalisée et nécessite la responsabilité de chacun pour avancer.
-Avec humilité, après étude et recherche effectuée sur ce sujet, nous prenons en compte la gravité et l'importance et la compléxité de la situation et il est trés difficile de trouver une solution avec une équation scientifique applicable qui pourrait satisfaire tout le monde, tous les acteurs.
+Une problèmatique urgente , vitale, non solutionnée nécessite la responsabilité de chacun pour avancer.
+Après étude et recherche effectuée sur ce sujet, nous prenons en compte la gravité et l'importance et la compléxité de la situation et il est trés difficile de trouver une solution avec une équation scientifique applicable qui pourrait satisfaire tout le monde, tous les acteurs.
 
 Un économiste de l'Energie japonais, Yochi Kaya propose une équation liant 4 facteurs afin d'analyser et simuler l'évolution des émissions mondiales de CO2 dans le cadre des politiques de lutte contre le réchauffement climatique.
 
@@ -30,10 +30,6 @@ A Japanese energy economist, Yochi Kaya proposes an equation linking 4 factors i
 
 **Problématique :** " Les gaz à effet de serre sont majoritairement responsables des dérèglements climatiques"
 
-**Hypothèse principale :** 
-
-**Hypothèses secondaires :** 
-
 **Objectifs :** "calcul et réduction du taux d'émission de gaz à effet de serre = taux du dioxyde de carbone CO2"
                 " CO2=(CO2/TEP)×(TEP/PIB)×(PIB/P)×P "
 
@@ -45,8 +41,8 @@ A Japanese energy economist, Yochi Kaya proposes an equation linking 4 factors i
 
 ## Présentation structurée des résultats
 
-- Représentation graphique des 4 courbes (facteurs indissociables) définissant l'équation
-- 1 graphique sur la variation du C02 jusqu'à 2050 (marquant le niveau maximal (450ppm de CO²) afin d'atteindre l'objectif de limiter le rechauffement à 2°C d'ici 2050)
+- Représentation graphique des 4 courbes (facteurs interdépendants) définissant l'équation de Kaya
+- 1 graphique sur la variation du C02 jusqu'à 2050 (marquant le niveau maximal (450ppm de CO²) afin d'atteindre l'objectif de limiter le rechauffement à 2°C d'ici 2050), défi mondial défini lors de la COP15 de 2009 à Copenhague
 
 ![gif](ARE2020_Climat.gif)
 
@@ -63,14 +59,13 @@ Modélisation :
 
 importer matplotlib
 créer liste des abscisses x / ordonnées y
-initialiser les listes
 saisir l'équation de Kaya et les variables à utiliser, à déterminer
 
-remplissage des listes (boucle FOR..;), saisie manuelles des données
+remplissage des listes, saisie manuelles des données
 construction du tableau avec matplotlib
 affichage du tableau
 
-déterminer les valeurs optimales d'équilibre : encalculant les différents coefficients
+déterminer les valeurs optimales d'équilibre : en calculant les différents coefficients
 
 On veut calculer la variation d'un coef R (fixons pour IP' = R*IP), en supposant que les autres coef soient déterminés, 
 On sait que Co²' = cCo²
@@ -80,37 +75,41 @@ pP*pmPM*ieIE*IP' = cP*PM*IE*IP
 faire entrer les coefficients : c,p,pm,ie,ip
 IP' = (c/p*pm*ie)xIP
 Résultat : R = (c/p*pm*ie)
-si R<1 alors baisse de (1-R)%
-si R>1 alors augmentation de (R-1)%
-si R=1 alors inchangé, IP=IP'
 
-Lors saisie des coefficients, filtrer les valeurs connues ou inconnue "x"
+Hypothèses :
+1-/ c = 1/3 = 0.33  #on veut faire baisser la production de CO2 et la diviser par 3 d'ici 2050
+2-/ p = (1.0114)**40  #le taux de croissance de la population mondiale en 2010 = 1.14% par an 
+
+Il nous reste à faire entrer les 3 coefficients dont l'un est inconnu x = 0 à déterminer
 si ip = "x" alors R = c/(p*pm*ie)
 si ie = "x" alors R = c/(p*pm*ip)
 si pm = "x" alors R = c/(p*ip*ie)
-si C = "x" alors R = p*pm*ie*ip
-si p = "x" alors R = c/(ip*pm*ie)
 
 Analyse et interprêtation des valeurs calculées
 
 p : seuil à surveiller (taux de natalité et mortalité), p à -50%
 pm : récession ou croissance
-ie : ??
-- cas particulier : tout diviser par 3 d'ici 2100 --> cas extrême, presque improbable mais à l'heure actuelle 2020 ; phénomène mondial inédit, arrêt de l'activité sur 2 mois, augmentation du taux de mortalité mondial, baisse CO2, récession à prévoir après reprise de l'économie (durée ; ??)
+ie : agit sur l'intensité 
 
-Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
+- cas particulier et inédit 2020 : l'objectif étant de tout diviser par 3 d'ici 2100 --> cas extrême, presque improbable mais à l'heure actuelle 2020 ; phénomène mondial inédit, arrêt de l'activité sur 2 mois, augmentation du taux de mortalité mondial (p), baisse CO2, récession (pm) à prévoir après reprise de l'économie dépendant de la durée de la crise, amélioration du niveau de l'émission de gaz à effet de serre (c), une baisse des besoins énergétiques (ie)
+
 
 ## Lien vers page de blog : <a href="https://tanierandria98.wixsite.com/climat0" target="_blank"> C'est ici ! </a>
 
-## Sripts :
+## Scripts :
 
 Notre projet a l’état final se nomme “climat.ipynb”  
 
 ## Résultats :
 
 ![image](Resultat_ie.png)
+--> Interprêtation : en prenant les mêmes résultats qu’en 2010, une baisse annuelle de l’intensité énergétique du PIB 0.059% est à maintenir, ce qui consiste à utiliser moins d’énergies primaires pour produire un bien,
 
 ![image](Resultat_pm.png)
+--> Interprêtation : une baisse annuelle du pouvoir d'achat de 0.043% par habitant est à considérer sur l'échelle mondiale, en supposant que la richesse soit bien répartie, le taux de croissance de la population annuelle est toujours de 1.14%, un effort sur la diminution de CO2 en énergie est significatif à 0.8, 
+
+--> Interprêtation : 
+ notamment à utiliser plus d'énergies renouvelables, on parle de décarbonation de l'énergie
 
 ## Bibliographie :
 
