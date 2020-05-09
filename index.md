@@ -79,6 +79,7 @@ Résultat : R = (c/p*pm*ie)
 Hypothèses :
 
 1-/ c = 1/3 = 0.33  #on veut faire baisser la production de CO2 et la diviser par 3 d'ici 2050
+
 2-/ p = (1.0114)**40  #le taux de croissance de la population mondiale en 2010 = 1.14% par an 
 
 Il nous reste à faire entrer les 3 coefficients dont l'un est inconnu x = 0 à déterminer
