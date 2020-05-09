@@ -110,6 +110,8 @@ Notre projet a l’état final se nomme “climat.ipynb”
 
 ![image](Resultat_ie.png)
 
+![image](Resultat_pm.png)
+
 ## Bibliographie :
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html" target="_blank">Framindmap </a> 
