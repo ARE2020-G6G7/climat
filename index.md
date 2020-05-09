@@ -113,7 +113,9 @@ Notre projet a l’état final se nomme “climat.ipynb”
 
 ## Bibliographie :
 
-**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html" target="_blank">Framindmap </a> 
+**Carte mentale des mots-clés : 
+
+![image](mindmap_climat.png)
 
 Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
 
