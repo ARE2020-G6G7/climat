@@ -83,14 +83,19 @@ Hypothèses :
 2-/ p = (1.0114)**40  #le taux de croissance de la population mondiale en 2010 = 1.14% par an 
 
 Il nous reste à faire entrer les 3 coefficients dont l'un est inconnu x = 0 à déterminer
+
 si ip = "x" alors R = c/(p*pm*ie)
+
 si ie = "x" alors R = c/(p*pm*ip)
+
 si pm = "x" alors R = c/(p*ip*ie)
 
 Analyse et interprêtation des valeurs calculées
 
 p : seuil à surveiller (taux de natalité et mortalité), p à -50%
+
 pm : récession ou croissance
+
 ie : agit sur l'intensité 
 
 - cas particulier et inédit 2020 : l'objectif étant de tout diviser par 3 d'ici 2100 --> cas extrême, presque improbable mais à l'heure actuelle 2020 ; phénomène mondial inédit, arrêt de l'activité sur 2 mois, augmentation du taux de mortalité mondial (p), baisse CO2, récession (pm) à prévoir après reprise de l'économie dépendant de la durée de la crise, amélioration du niveau de l'émission de gaz à effet de serre (c), une baisse des besoins énergétiques (ie)
