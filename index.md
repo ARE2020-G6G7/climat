@@ -77,6 +77,7 @@ IP' = (c/p*pm*ie)xIP
 Résultat : R = (c/p*pm*ie)
 
 Hypothèses :
+
 1-/ c = 1/3 = 0.33  #on veut faire baisser la production de CO2 et la diviser par 3 d'ici 2050
 2-/ p = (1.0114)**40  #le taux de croissance de la population mondiale en 2010 = 1.14% par an 
 
@@ -101,24 +102,29 @@ ie : agit sur l'intensité
 Notre projet a l’état final se nomme “climat.ipynb”  
 
 ## Résultats :
+
 Calcul ie = TEP/PIB :
+
 ![image](Resultat_ie.png)
 
 --> Interprêtation : en prenant les mêmes résultats qu’en 2010, une baisse annuelle de l’intensité énergétique du PIB 0.059% est à maintenir, ce qui consiste à utiliser moins d’énergies primaires pour produire un bien.
 
 Calcul pm = PIB/Pop :
+
 ![image](Resultat_pm.png)
 
 --> Interprêtation : une baisse annuelle du pouvoir d'achat de 0.043% par habitant est à considérer sur l'échelle mondiale, en supposant que la richesse soit bien répartie, le taux de croissance de la population annuelle est toujours de 1.14%, un effort sur la diminution de CO2 en énergie est significatif à 0.8, 
 
 Calcul ip = CO2/TEP :
-[image](Resultat_ip.png)
+
+![image](Resultat_ip.png)
 
 --> Interprêtation : 
  Suite à une hausse du pouvoir d’achat à 1.1, et la quantité d’énergie utilisée pour produire un bien est en baisse, on constate une baisse annuelle de l’émission de CO2 par énergie, ce qui se traduit par l’augmentation de l’utilisation des énergies « sans carbone » : décarboner l’énergie afin d’atteindre l’objectif de faire baisser la production de CO2 et la diviser par 3 d’ici 2050 (COP 15 de 2009)
  
  Chiffres de 1970 - 2010 :
- [image](Chiffres_1970_2010.png)
+ 
+ ![image](Chiffres_1970_2010.png)
 
 ## Bibliographie :
 
